@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:enabled="true"
+            android:checked="true"
+            android:id="@+id/nav_shouye"
+            android:icon="@mipmap/home"
+            android:title="首页" />
+        <item
+            android:id="@+id/nav_richang"
+            android:icon="@mipmap/abc_ic_go_search_api_mtrl_alpha"
+            android:title="日常心理学" />
+        <item
+            android:id="@+id/nav_yonghu"
+            android:icon="@mipmap/abc_ic_go_search_api_mtrl_alpha"
+            android:title="用户推荐日报" />
+        <item
+            android:id="@+id/nav_vedio"
+            android:icon="@mipmap/abc_ic_go_search_api_mtrl_alpha"
+            android:title="电影日报" />
+        <item
+            android:id="@+id/nav_bored"
+            android:icon="@mipmap/abc_ic_go_search_api_mtrl_alpha"
+            android:title="不许无聊" />
+        <item
+            android:id="@+id/nav_design"
+            android:icon="@mipmap/abc_ic_go_search_api_mtrl_alpha"
+            android:title="设计日报" />
+        <item
+            android:id="@+id/nav_company"
+            android:icon="@mipmap/abc_ic_go_search_api_mtrl_alpha"
+            android:title="大公司日报" />
+        <item
+            android:id="@+id/nav_caijing"
+            android:icon="@mipmap/abc_ic_go_search_api_mtrl_alpha"
+            android:title="财经日报" />
+        <item
+            android:id="@+id/nav_internet"
+            android:icon="@mipmap/abc_ic_go_search_api_mtrl_alpha"
+            android:title="互联网安全" />
+        <item
+            android:id="@+id/nav_begin_game"
+            android:icon="@mipmap/abc_ic_go_search_api_mtrl_alpha"
+            android:title="开始游戏" />
+        <item
+            android:id="@+id/nav_music"
+            android:icon="@mipmap/abc_ic_go_search_api_mtrl_alpha"
+            android:title="音乐日报" />
+        <item
+            android:id="@+id/nav_cartoon"
+            android:icon="@mipmap/abc_ic_go_search_api_mtrl_alpha"
+            android:title="动漫日报" />
+        <item
+            android:id="@+id/nav_sports"
+            android:icon="@mipmap/abc_ic_go_search_api_mtrl_alpha"
+            android:title="体育日报" />
+    </group>
+</menu>
